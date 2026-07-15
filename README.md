@@ -10,7 +10,7 @@
 - доступность станций метрополитена (построение изохрон по графу пешеходной сети)/
 
 ## 🔗 Ссылка на интерактивную карту
-👉 (https://github.com/viktoriabronina-create/final-map)
+👉 https://viktoriabronina-create.github.io/final-map-3/
 
 ## 📂 Структура репозитория
 * `project_3.ipynb` — Jupyter Notebook с полным кодом исследования
